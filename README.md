@@ -19,7 +19,7 @@ Clone the repository:
 
 ```bash
   git clone https://github.com/HADIANA33M/FetchNut.git
-  cd fetchnut
+  cd FetchNut
 ```
     
 ## Running Tests
