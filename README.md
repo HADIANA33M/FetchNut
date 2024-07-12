@@ -12,6 +12,14 @@ FetchNut is a Python-based network traffic analyzer using the Scapy library to c
 - Provides security insights by highlighting unusual activity in the network traffic.
 
 
+## Deployment
+
+To deploy this project run
+
+```sh
+ pip install scapy matplotlib
+```
+
 
 ## Installation
 
